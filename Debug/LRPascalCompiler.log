@@ -1,0 +1,3 @@
+﻿  Syntax.cpp
+C:\Users\s71d3\source\repos\LRPascalCompiler\LRPascalCompiler\Syntax.cpp(894,21): warning C4018: <: несоответствие типов со знаком и без знака
+  LRPascalCompiler.vcxproj -> C:\Users\s71d3\source\repos\LRPascalCompiler\Debug\LRPascalCompiler.exe
